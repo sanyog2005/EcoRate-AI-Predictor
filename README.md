@@ -3,7 +3,8 @@
 **EcoRate** is an end-to-end Machine Learning application designed to predict residential property prices in **Rohini, Delhi**. Unlike standard price predictors, this project integrates sustainability metrics—such as solar potential and metro proximity—and uses **Explainable AI (SHAP)** to justify every prediction.
 
 🚀 **[Live Demo Link](https://ecorate-predictor.streamlit.app/)**
-<img width="1056" height="613" alt="image" src="https://github.com/user-attachments/assets/31128a90-92db-4711-9917-16da5ba6653c" />
+<img width="1103" height="621" alt="Screenshot 2026-02-24 204214" src="https://github.com/user-attachments/assets/29978f67-3c7f-4a83-95f6-03a926548f9c" />
+
 
 
 ---
